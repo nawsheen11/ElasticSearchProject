@@ -5,10 +5,12 @@ This project focuses on creating a comprehensive tutorial for ElasticSearch on a
 ## Key Components
 1. ElasticSearch Tutorial
 This component will include a detailed tutorial covering:
-
 Installation and Setup: Instructions for installing and setting up ElasticSearch on Ubuntu Desktop.
+
 Importing Log Files: A step-by-step guide on how to import log files into ElasticSearch.
+
 Feature Overview: An explanation of ElasticSearch features, including how to query and retrieve data.
+
 Use Cases: Examples of real-world applications and scenarios where ElasticSearch can be applied.
 
 
