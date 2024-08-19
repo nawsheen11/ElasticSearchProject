@@ -28,6 +28,17 @@ Access: The repository link can be shared to provide access and facilitate proof
 
 4. Viva Presentation
 Preparation: A presentation will be prepared to explain the project, highlight key aspects of the tutorial, and answer related questions.
+
+## Configuration Files locations
+/etc/logstash/logstash.yml
+
+/etc/logstash/conf.d/logstash.conf
+
+/etc/filebeat/filebeat.yml
+
+/etc/filebeat/modules.d/system.yml
+
+
 ## Additional Information
 If needed, I can share the report template and the GitHub repository to assist further.
 Feel free to ask for any additional details or clarification!
